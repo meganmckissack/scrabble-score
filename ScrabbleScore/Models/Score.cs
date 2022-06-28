@@ -1,6 +1,6 @@
-namespace ProjectName
+namespace ScrabbleScore
 {
-  public class ClassName
+  public class Score
   {
     // properties, constructors, methods, go here
   }
